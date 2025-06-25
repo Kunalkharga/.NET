@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

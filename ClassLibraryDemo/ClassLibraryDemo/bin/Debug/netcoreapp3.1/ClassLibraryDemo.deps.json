@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassLibraryDemo/1.0.0": {
+        "dependencies": {
+          "EnglishToNepaliNumber": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryDemo.dll": {}
+        }
+      },
+      "EnglishToNepaliNumber/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/EnglishToNepaliNumber.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnglishToNepaliNumber/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b0TbI/VJAUc82ZZCYXOvLBntu/DrclixRBNWKxZHFmNIvPcqJmGoCKuM3/Rp8zsyk6Sy1HGBg5FhUTSEb5xjtQ==",
+      "path": "englishtonepalinumber/1.0.0",
+      "hashPath": "englishtonepalinumber.1.0.0.nupkg.sha512"
+    }
+  }
+}

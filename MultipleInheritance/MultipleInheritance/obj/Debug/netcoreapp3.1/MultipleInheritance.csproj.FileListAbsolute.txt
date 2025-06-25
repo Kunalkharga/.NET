@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.exe
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.deps.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MultipleInheritance\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.genruntimeconfig.cache

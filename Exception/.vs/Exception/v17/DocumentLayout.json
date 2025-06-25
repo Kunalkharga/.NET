@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63A42B22-D6E3-49BF-8ACF-D08DC86F3332}|Exception\\Exception.csproj|e:\\bca\\5th sem\\dotnet technology\\kunal_vs\\exception\\exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A42B22-D6E3-49BF-8ACF-D08DC86F3332}|Exception\\Exception.csproj|solutionrelative:exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\Exception\\Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Exception\\Program.cs",
+              "ToolTip": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\Exception\\Exception\\Program.cs",
+              "RelativeToolTip": "Exception\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:58:17.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

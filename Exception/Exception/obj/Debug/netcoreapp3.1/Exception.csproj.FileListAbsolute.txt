@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\bin\Debug\netcoreapp3.1\MulticastDelegate.exe
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\bin\Debug\netcoreapp3.1\MulticastDelegate.deps.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\bin\Debug\netcoreapp3.1\MulticastDelegate.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\bin\Debug\netcoreapp3.1\MulticastDelegate.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\bin\Debug\netcoreapp3.1\MulticastDelegate.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\bin\Debug\netcoreapp3.1\MulticastDelegate.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\obj\Debug\netcoreapp3.1\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\obj\Debug\netcoreapp3.1\MulticastDelegate.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\obj\Debug\netcoreapp3.1\MulticastDelegate.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\obj\Debug\netcoreapp3.1\MulticastDelegate.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\obj\Debug\netcoreapp3.1\MulticastDelegate.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\obj\Debug\netcoreapp3.1\MulticastDelegate.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\MulticastDelegate\MulticastDelegate\obj\Debug\netcoreapp3.1\MulticastDelegate.genruntimeconfig.cache

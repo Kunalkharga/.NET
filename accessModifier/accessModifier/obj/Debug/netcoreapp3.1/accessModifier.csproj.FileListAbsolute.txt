@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\bin\Debug\netcoreapp3.1\accessModifier.exe
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\bin\Debug\netcoreapp3.1\accessModifier.deps.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\bin\Debug\netcoreapp3.1\accessModifier.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\bin\Debug\netcoreapp3.1\accessModifier.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\bin\Debug\netcoreapp3.1\accessModifier.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\bin\Debug\netcoreapp3.1\accessModifier.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\obj\Debug\netcoreapp3.1\accessModifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\obj\Debug\netcoreapp3.1\accessModifier.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\obj\Debug\netcoreapp3.1\accessModifier.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\obj\Debug\netcoreapp3.1\accessModifier.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\obj\Debug\netcoreapp3.1\accessModifier.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\obj\Debug\netcoreapp3.1\accessModifier.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\accessModifier\accessModifier\obj\Debug\netcoreapp3.1\accessModifier.genruntimeconfig.cache

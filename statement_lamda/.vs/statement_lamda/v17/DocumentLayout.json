@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\statement_lamda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8572AEA6-911B-4968-8175-6D6E7A5C6396}|statement_lamda\\statement_lamda.csproj|e:\\bca\\5th sem\\dotnet technology\\kunal_vs\\statement_lamda\\statement_lamda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8572AEA6-911B-4968-8175-6D6E7A5C6396}|statement_lamda\\statement_lamda.csproj|solutionrelative:statement_lamda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\statement_lamda\\statement_lamda\\Program.cs",
+              "RelativeDocumentMoniker": "statement_lamda\\Program.cs",
+              "ToolTip": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\statement_lamda\\statement_lamda\\Program.cs",
+              "RelativeToolTip": "statement_lamda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:40:19.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

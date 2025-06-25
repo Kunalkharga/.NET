@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EnglishToNepaliNumber/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/EnglishToNepaliNumber.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/EnglishToNepaliNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnglishToNepaliNumber/1.0.0": {
+      "sha512": "b0TbI/VJAUc82ZZCYXOvLBntu/DrclixRBNWKxZHFmNIvPcqJmGoCKuM3/Rp8zsyk6Sy1HGBg5FhUTSEb5xjtQ==",
+      "type": "package",
+      "path": "englishtonepalinumber/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "englishtonepalinumber.1.0.0.nupkg.sha512",
+        "englishtonepalinumber.nuspec",
+        "lib/netstandard2.0/EnglishToNepaliNumber.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EnglishToNepaliNumber >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\prava\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\BCA\\5th SEM\\DotNet Technology\\VS_Studio\\ClassLibraryDemo\\ClassLibraryDemo\\ClassLibraryDemo.csproj",
+      "projectName": "ClassLibraryDemo",
+      "projectPath": "E:\\BCA\\5th SEM\\DotNet Technology\\VS_Studio\\ClassLibraryDemo\\ClassLibraryDemo\\ClassLibraryDemo.csproj",
+      "packagesPath": "C:\\Users\\prava\\.nuget\\packages\\",
+      "outputPath": "E:\\BCA\\5th SEM\\DotNet Technology\\VS_Studio\\ClassLibraryDemo\\ClassLibraryDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\prava\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "EnglishToNepaliNumber": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

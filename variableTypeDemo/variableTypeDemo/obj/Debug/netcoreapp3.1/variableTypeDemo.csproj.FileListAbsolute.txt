@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\bin\Debug\netcoreapp3.1\variableTypeDemo.exe
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\bin\Debug\netcoreapp3.1\variableTypeDemo.deps.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\bin\Debug\netcoreapp3.1\variableTypeDemo.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\bin\Debug\netcoreapp3.1\variableTypeDemo.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\bin\Debug\netcoreapp3.1\variableTypeDemo.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\bin\Debug\netcoreapp3.1\variableTypeDemo.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\obj\Debug\netcoreapp3.1\variableTypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\obj\Debug\netcoreapp3.1\variableTypeDemo.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\obj\Debug\netcoreapp3.1\variableTypeDemo.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\obj\Debug\netcoreapp3.1\variableTypeDemo.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\obj\Debug\netcoreapp3.1\variableTypeDemo.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\obj\Debug\netcoreapp3.1\variableTypeDemo.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\variableTypeDemo\variableTypeDemo\obj\Debug\netcoreapp3.1\variableTypeDemo.genruntimeconfig.cache

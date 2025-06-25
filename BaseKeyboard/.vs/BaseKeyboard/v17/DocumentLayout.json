@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\BaseKeyboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEA02DF-DEFA-4FF8-AF5D-A720853C2C0B}|BaseKeyboard\\BaseKeyboard.csproj|e:\\bca\\5th sem\\dotnet technology\\kunal_vs\\basekeyboard\\basekeyboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEA02DF-DEFA-4FF8-AF5D-A720853C2C0B}|BaseKeyboard\\BaseKeyboard.csproj|solutionrelative:basekeyboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\BaseKeyboard\\BaseKeyboard\\Program.cs",
+              "RelativeDocumentMoniker": "BaseKeyboard\\Program.cs",
+              "ToolTip": "E:\\BCA\\5th SEM\\DotNet Technology\\KUNAL_Vs\\BaseKeyboard\\BaseKeyboard\\Program.cs",
+              "RelativeToolTip": "BaseKeyboard\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:34:32.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\bin\Debug\netcoreapp3.1\array.exe
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\bin\Debug\netcoreapp3.1\array.deps.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\bin\Debug\netcoreapp3.1\array.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\bin\Debug\netcoreapp3.1\array.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\bin\Debug\netcoreapp3.1\array.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\bin\Debug\netcoreapp3.1\array.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\obj\Debug\netcoreapp3.1\array.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\obj\Debug\netcoreapp3.1\array.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\obj\Debug\netcoreapp3.1\array.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\obj\Debug\netcoreapp3.1\array.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\obj\Debug\netcoreapp3.1\array.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\obj\Debug\netcoreapp3.1\array.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\array\array\obj\Debug\netcoreapp3.1\array.genruntimeconfig.cache

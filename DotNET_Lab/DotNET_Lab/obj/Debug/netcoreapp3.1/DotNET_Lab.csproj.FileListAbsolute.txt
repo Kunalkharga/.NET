@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\bin\Debug\netcoreapp3.1\DotNET_Lab.exe
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\bin\Debug\netcoreapp3.1\DotNET_Lab.deps.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\bin\Debug\netcoreapp3.1\DotNET_Lab.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\bin\Debug\netcoreapp3.1\DotNET_Lab.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\bin\Debug\netcoreapp3.1\DotNET_Lab.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\bin\Debug\netcoreapp3.1\DotNET_Lab.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\obj\Debug\netcoreapp3.1\DotNET_Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\obj\Debug\netcoreapp3.1\DotNET_Lab.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\obj\Debug\netcoreapp3.1\DotNET_Lab.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\obj\Debug\netcoreapp3.1\DotNET_Lab.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\obj\Debug\netcoreapp3.1\DotNET_Lab.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\obj\Debug\netcoreapp3.1\DotNET_Lab.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\DotNET_Lab\DotNET_Lab\obj\Debug\netcoreapp3.1\DotNET_Lab.genruntimeconfig.cache

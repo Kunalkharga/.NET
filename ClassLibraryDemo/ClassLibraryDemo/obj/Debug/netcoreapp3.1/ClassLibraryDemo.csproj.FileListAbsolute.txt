@@ -1,0 +1,16 @@
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\netcoreapp3.1\ClassLibraryDemo.exe
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\netcoreapp3.1\ClassLibraryDemo.deps.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\netcoreapp3.1\ClassLibraryDemo.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\netcoreapp3.1\ClassLibraryDemo.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\netcoreapp3.1\ClassLibraryDemo.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\netcoreapp3.1\ClassLibraryDemo.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\bin\Debug\netcoreapp3.1\EnglishToNepaliNumber.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLibraryDemo.csproj.AssemblyReference.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLibraryDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLibraryDemo.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLibraryDemo.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLibraryDemo.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLib.AAFC7E45.Up2Date
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLibraryDemo.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLibraryDemo.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\ClassLibraryDemo\ClassLibraryDemo\obj\Debug\netcoreapp3.1\ClassLibraryDemo.genruntimeconfig.cache

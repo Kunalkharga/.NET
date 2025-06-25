@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\bin\Debug\netcoreapp3.1\If statements.exe
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\bin\Debug\netcoreapp3.1\If statements.deps.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\bin\Debug\netcoreapp3.1\If statements.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\bin\Debug\netcoreapp3.1\If statements.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\bin\Debug\netcoreapp3.1\If statements.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\bin\Debug\netcoreapp3.1\If statements.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\obj\Debug\netcoreapp3.1\If statements.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\obj\Debug\netcoreapp3.1\If statements.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\obj\Debug\netcoreapp3.1\If statements.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\obj\Debug\netcoreapp3.1\If statements.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\obj\Debug\netcoreapp3.1\If statements.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\obj\Debug\netcoreapp3.1\If statements.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\If statements\If statements\obj\Debug\netcoreapp3.1\If statements.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\bin\Debug\netcoreapp3.1\staticVariable.exe
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\bin\Debug\netcoreapp3.1\staticVariable.deps.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\bin\Debug\netcoreapp3.1\staticVariable.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\bin\Debug\netcoreapp3.1\staticVariable.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\bin\Debug\netcoreapp3.1\staticVariable.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\bin\Debug\netcoreapp3.1\staticVariable.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\obj\Debug\netcoreapp3.1\staticVariable.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\obj\Debug\netcoreapp3.1\staticVariable.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\obj\Debug\netcoreapp3.1\staticVariable.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\obj\Debug\netcoreapp3.1\staticVariable.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\obj\Debug\netcoreapp3.1\staticVariable.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\obj\Debug\netcoreapp3.1\staticVariable.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\staticVariable\staticVariable\obj\Debug\netcoreapp3.1\staticVariable.genruntimeconfig.cache

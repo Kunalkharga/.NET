@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.exe
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.deps.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\bin\Debug\netcoreapp3.1\StaticClass.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\StaticClass\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.genruntimeconfig.cache

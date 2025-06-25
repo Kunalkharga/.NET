@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\bin\Debug\netcoreapp3.1\bitwise.exe
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\bin\Debug\netcoreapp3.1\bitwise.deps.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\bin\Debug\netcoreapp3.1\bitwise.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\bin\Debug\netcoreapp3.1\bitwise.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\bin\Debug\netcoreapp3.1\bitwise.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\bin\Debug\netcoreapp3.1\bitwise.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\obj\Debug\netcoreapp3.1\bitwise.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\obj\Debug\netcoreapp3.1\bitwise.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\obj\Debug\netcoreapp3.1\bitwise.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\obj\Debug\netcoreapp3.1\bitwise.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\obj\Debug\netcoreapp3.1\bitwise.dll
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\obj\Debug\netcoreapp3.1\bitwise.pdb
+E:\BCA\5th SEM\DotNet Technology\VS_Studio\bitwise\bitwise\obj\Debug\netcoreapp3.1\bitwise.genruntimeconfig.cache

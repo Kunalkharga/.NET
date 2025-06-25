@@ -1,0 +1,13 @@
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\bin\Debug\netcoreapp3.1\value and reference.exe
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\bin\Debug\netcoreapp3.1\value and reference.deps.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\bin\Debug\netcoreapp3.1\value and reference.runtimeconfig.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\bin\Debug\netcoreapp3.1\value and reference.runtimeconfig.dev.json
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\bin\Debug\netcoreapp3.1\value and reference.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\bin\Debug\netcoreapp3.1\value and reference.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\obj\Debug\netcoreapp3.1\value and reference.GeneratedMSBuildEditorConfig.editorconfig
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\obj\Debug\netcoreapp3.1\value and reference.AssemblyInfoInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\obj\Debug\netcoreapp3.1\value and reference.AssemblyInfo.cs
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\obj\Debug\netcoreapp3.1\value and reference.csproj.CoreCompileInputs.cache
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\obj\Debug\netcoreapp3.1\value and reference.dll
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\obj\Debug\netcoreapp3.1\value and reference.pdb
+E:\BCA\5th SEM\DotNet Technology\KUNAL_Vs\value and reference\value and reference\obj\Debug\netcoreapp3.1\value and reference.genruntimeconfig.cache
